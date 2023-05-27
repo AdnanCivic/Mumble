@@ -39,3 +39,6 @@ const store = createStore(
 );
 
 export default store;
+
+let invers = 1;
+console.log(invers);
